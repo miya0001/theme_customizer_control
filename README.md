@@ -1,6 +1,7 @@
 # Megumi_ThemeCustomizerControl() Class
 
-Class for theme customizer custom control.
+Class for theme customizer custom control. 
+This class allows to use html brefore and after form fields.
 
 ## How to install in your project.
 
